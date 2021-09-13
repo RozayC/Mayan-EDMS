@@ -393,7 +393,7 @@ a i {
     color: #f0ad4e;
 }
 
-.btn-danger, .btn-danger:hover, .btn-danger:active, .btn-danger:visited {
+.btn-danger, .btn-danger:hover, .btn-danger:active {
     background-color: #420c19 !important;
 }
 
